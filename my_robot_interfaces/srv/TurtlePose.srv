@@ -1,0 +1,5 @@
+string name
+float64 pose_x
+float64 pose_y
+---
+bool success

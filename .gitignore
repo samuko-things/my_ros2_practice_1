@@ -1,0 +1,4 @@
+# Ignore __pycache__ folder
+*build
+*vscode
+*__pycache__
